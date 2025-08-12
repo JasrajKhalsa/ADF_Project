@@ -1,0 +1,9 @@
+{
+	"name": "jasraj-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cacdf00f-4976-498a-b049-e6689fc13d16",
+		"tenantId": "5ee35505-eb8e-4929-937d-645df5013288"
+	}
+}
